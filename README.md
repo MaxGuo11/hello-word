@@ -6,4 +6,4 @@ Creating a new branch is quick & simple.
 
 dev add
 
-Dual remote
+Dual remote 2222
